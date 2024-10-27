@@ -7,7 +7,7 @@ import ArticlePage from './pages/ArticlePage';
 const App = () => {
   return (
     <Router>
-      <div className="min-h-screen bg-gray-100">
+      <div className="min-h-screen bg-gray-200">
         <Header />
         <main>
           <Routes>
