@@ -30,14 +30,23 @@ const HomePage = () => {
       </div>
 
       <div className="mt-12 text-center">
-        <div className="bg-red-50 border-2 border-red-700 p-8">
-          <h3 className="text-2xl font-bold uppercase mb-4">REVOLUTIONARY QUOTATION OF THE DAY</h3>
-          <p className="text-lg italic mb-4">
-            "I am a revolutionary; my life is dedicated to freeing the people."
-          </p>
-          <p className="text-red-700 uppercase tracking-wider">- Mengistu Haile Mariam</p>
-        </div>
-      </div>
+  <div className="bg-red-50 border-2 border-red-700 p-8 flex items-center justify-center">
+    <div className="flex flex-col items-center text-center mr-4">
+      <h3 className="text-2xl font-bold uppercase mb-4">REVOLUTIONARY QUOTATION OF THE DAY</h3>
+      <p className="text-lg italic mb-4">
+        "I am a revolutionary; my life is dedicated to freeing the people."
+      </p>
+      <p className="text-red-700 uppercase tracking-wider">- Mengistu Haile Mariam</p>
+    </div>
+    <img 
+      src="/Mariam_Mengistu.jpg" 
+      alt="Description of image" 
+      className="w-24 h-24 rounded-full" 
+    />
+  </div>
+</div>
+
+
     </div>
   );
 };
