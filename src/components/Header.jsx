@@ -38,7 +38,7 @@ const Header = () => {
       {isModalOpen && (
         <div className="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50">
           <div className="bg-white rounded-lg p-4 w-1/3">
-            <h2 className="text-xl text-black font-bold mb-4">ORGANIZATIONS</h2>
+            <h2 className="text-xl text-black font-bold mb-4">ORGANIZATIONS WE SUPPORT</h2>
             <ul className="list-disc pl-5">
               {organizations.map((org, index) => (
                 <li key={index} className="mb-2">
