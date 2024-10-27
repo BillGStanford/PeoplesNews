@@ -33,9 +33,9 @@ const HomePage = () => {
         <div className="bg-red-50 border-2 border-red-700 p-8">
           <h3 className="text-2xl font-bold uppercase mb-4">REVOLUTIONARY QUOTATION OF THE DAY</h3>
           <p className="text-lg italic mb-4">
-            "The history of all hitherto existing society is the history of class struggles."
+            "I am a revolutionary; my life is dedicated to freeing the people."
           </p>
-          <p className="text-red-700 uppercase tracking-wider">- Karl Marx</p>
+          <p className="text-red-700 uppercase tracking-wider">- Mengistu Haile Mariam</p>
         </div>
       </div>
     </div>
