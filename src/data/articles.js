@@ -47,5 +47,18 @@ export const articles = [
           protections, we can create a fairer economy that values the contributions of all workers. The time for change is now; a just workplace is not just a dream, but a necessity for a thriving society.`,
         excerpt: "Workers are exploited by those that should've protected them. Is it a shock? Now. It's the government."
       }
+
+        },
+
+    {
+        id: 3,
+        title: "Gaza Genocide",
+        author: "Comrade Kuma",
+        date: "2024-10-27",
+        category: "Gaza",
+        content: 'We are at a critical juncture in global history, facing the urgent need for justice regarding Israel’s war crimes in Gaza. The repeated disappointments of the United Nations weigh heavily on our conscience, particularly as we witness the United States voting against ceasefire initiatives and humanitarian aid to Gaza. Since the onset of the conflict on October 7, Israel has been permitted to bomb humanitarian aid trucks entering Gaza, raising serious ethical questions. It is disheartening to see that Israel operates with such impunity, while the international community fails to hold it accountable. We must demand accountability and a commitment to human rights for all.'
+        
+        excerpt: "Gaza War, is just a Cover for the Gaza Genocide"
+    }
   ];
   
