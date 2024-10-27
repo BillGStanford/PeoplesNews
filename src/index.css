@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --communist-red: #CC0000;
+  --dark-red: #990000;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #f5f5f5;
+}
+
+.hero-title {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.article-card {
+  transition: transform 0.2s;
+}
+
+.article-card:hover {
+  transform: translateY(-2px);
+}
+
+.propaganda-border {
+  border: 2px solid var(--communist-red);
+  position: relative;
+}
+
+.propaganda-border::before {
+  content: '☭';
+  position: absolute;
+  top: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fff;
+  padding: 0 10px;
+  color: var(--communist-red);
+  font-size: 1.5rem;
+}
+
+.article-content p {
+  margin-bottom: 1.5rem;
+}
