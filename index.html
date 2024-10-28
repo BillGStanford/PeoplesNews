@@ -7,7 +7,53 @@
     <title>Peoples Gazette</title>
   </head>
   <body>
-    <div id="root"></div>
+
+    
+
+
+    <div class="maintenance">
+      <h1>Website Under Maintenance</h1>
+      <p>Please check back soon. We appreciate your patience.</p>
+      <p>Follow us on <a href="https://x.com/ECPMain" target="_blank">X</a> for updates.</p>
+    </div>
+    
+    <style>
+      .maintenance {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full viewport height */
+        background-color: #f4f4f4; /* Light background */
+        color: #333; /* Dark text */
+        font-family: 'Arial', sans-serif; /* Font style */
+        text-align: center; /* Center text */
+        padding: 20px;
+        border-radius: 10px; /* Rounded corners */
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      }
+    
+      h1 {
+        font-size: 2.5em; /* Larger font for the header */
+        margin: 0; /* Remove default margin */
+      }
+    
+      p {
+        font-size: 1.2em; /* Slightly larger font for the paragraph */
+        margin-top: 10px; /* Space between header and paragraph */
+      }
+    
+      a {
+        color: #007bff; /* Link color */
+        text-decoration: none; /* Remove underline */
+      }
+    
+      a:hover {
+        text-decoration: underline; /* Underline on hover */
+      }
+    </style>
+    
+    
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
