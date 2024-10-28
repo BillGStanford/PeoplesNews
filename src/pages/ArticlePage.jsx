@@ -48,7 +48,7 @@ const ArticlePage = () => {
           <div className="article-content prose max-w-none">
             <div className="bg-red-50 border-l-4 border-red-700 p-4 mb-8">
               <p className="text-lg italic">
-                "From each according to their ability, to each according to their needs."
+                "History repeats itself, first as tragedy, second as farce"
               </p>
             </div>
 
