@@ -22,7 +22,7 @@ The struggle is ours, and with unity, determination, and revolutionary fervor, w
 
 
       
-      excerpt: "A War nobody but the Far-Right extremists in Israel Wanted. A War that will lead to a global outbreak"
+      excerpt: "America, lost in the a dilema of Capitalist serving freaks they call Leaders. Kamala or Trump nothing will change. Nothing has changed. America is falling."
     },
 
   {
