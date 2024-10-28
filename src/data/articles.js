@@ -1,5 +1,31 @@
 export const articles = [
     {
+
+      id: 5,
+      title: "Who Repersents Us?",
+      author: "Comrade Kuma",
+      date: "2024-10-28",
+      category: "U.S.A",
+      content: `Neither the Democrats nor the Republicans of the United States have ever truly represented the working class. These parties, entrenched in self-serving interests, operate as instruments of the bourgeoisie, prioritizing their personal ambitions and egos over the needs of the honest laborers who sustain this nation. Time and again, they have shown their unwavering commitment to the interests of billionaires and corporations, casting aside the very people who toil daily to build and maintain the infrastructure of our society.
+
+In America, the individual with the most wealth wields more power than those who control the nuclear codes, the legislative bodies, or even the very laws of the land. This grotesque reality illustrates how deeply capitalism has corrupted our political system. Politicians, who masquerade as representatives of the people, are often nothing more than pawns in a game played by the wealthy elite. They are bought and sold, their loyalties traded for the financial contributions of so-called "donors" and Political Action Committees (PACs), which are nothing more than sophisticated mechanisms for bribery and corruption.
+
+The ruling class has created a façade of democracy while systematically dismantling the very foundations of genuine representation. The voice of the working man and woman is drowned out by the cacophony of corporate interests, leaving the masses disillusioned and abandoned. Where, then, can we find true leadership that stands with the proletariat? The answer is clear: it is nowhere to be found in the halls of power.
+
+We must recognize that our leaders are not weak merely by nature; they are corrupted by the very system that elevates wealth over virtue. The interests of the working class are subjugated to the whims of those who hold capital, creating a society where exploitation is rampant and inequality festers. The revolutionary spirit of the people is stifled under the weight of a capitalist regime that prioritizes profit over the collective good.
+
+In this climate of betrayal, we must unite and rise against the oppressive structures that have ensnared us. Our struggle is not just against individual politicians but against the systemic forces that enable this exploitation. We must demand a political revolution that dismantles the capitalist framework, replacing it with a system that truly serves the people—a system where the working class holds the reins of power, free from the fetters of greed and exploitation.
+
+True leadership will only emerge when we, the workers, reclaim our agency and establish a state that prioritizes the needs of the many over the profits of the few. The time has come to challenge the status quo, to reject the false dichotomy presented by the two-party system, and to forge a new path toward a society that is equitable and just. Only then can we hope to dismantle the structures of oppression and create a future where every worker is valued, and every voice is heard.
+
+The struggle is ours, and with unity, determination, and revolutionary fervor, we can build a new America—one that truly belongs to the people.`,
+
+
+      
+      excerpt: "A War nobody but the Far-Right extremists in Israel Wanted. A War that will lead to a global outbreak"
+    },
+
+  {
         id: 4,
         title: "Iran and Israel - A War no one Wanted",
         author: "Comrade Kuma",
