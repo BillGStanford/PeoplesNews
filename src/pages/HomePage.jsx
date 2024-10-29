@@ -11,7 +11,7 @@ const HomePage = () => {
             GLORY TO THE WORKERS' STRUGGLE!
           </h2>
           <h2 className="text-3xl md:text-4xl font-bold uppercase mb-4">
-            We Stand with Palestine
+            Remebering Yahya Al-Sinwar
           </h2>
           <p className="text-xl">Today's Truth for Tomorrow's Victory</p>
         </div>
