@@ -43,15 +43,15 @@ const SocialMediaPopup = ({ onClose, showCloseButton, countdown }) => {
 
           {/* Social Media Buttons */}
           <div className="flex justify-center space-x-4">
-          <a 
-  href="https://x.com/ECPMain" 
-  target="_blank" 
-  rel="noopener noreferrer" 
-  className="flex items-center space-x-2 bg-red-500 text-white px-6 py-3 rounded hover:bg-opacity-90 transition duration-200 font-medium"
->
-  <Twitter size={20} />
-  <span>Follow on Twitter</span>
-</a>
+            <a 
+              href="https://x.com/ECPMain" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="flex items-center space-x-2 bg-red-500 text-white px-6 py-3 rounded hover:bg-opacity-90 transition duration-200 font-medium"
+            >
+              <Twitter size={20} />
+              <span>Follow on Twitter</span>
+            </a>
           </div>
 
           {/* Newsletter Signup */}
@@ -74,6 +74,9 @@ const ArticlePage = () => {
   const article = articles.find(a => a.id === parseInt(id));
 
   useEffect(() => {
+    // Scroll to top of the page when component mounts
+    window.scrollTo(0, 0);
+
     // Show popup immediately on mount and every 4 minutes
     const showPopupWithDelay = () => {
       setShowPopup(true);
