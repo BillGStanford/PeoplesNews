@@ -1,6 +1,38 @@
 export const articles = [
     {
 
+      id: 6,
+      title: "Two Genocides the World is letting Happen",
+      author: "Comrade Kuma",
+      date: "2024-11-03",
+      category: "Politics",
+      content: `While the genocide in Gaza rages on, another atrocity has been unfolding for far too long, largely unnoticed by the international community. The Amhara people, Ethiopia's second-largest ethnic group, face systematic eradication at the hands of a brutal regime and complicit local militias. This coordinated assault aims not only to decimate the Amhara population but also to fragment the social fabric of Ethiopia itself, sowing division and chaos in a country rich with diverse cultures and histories.
+
+Since taking power in 2018, Prime Minister Abiy Ahmed has presided over a regime characterized by its oppressive and dictatorial tactics. What began as a targeted campaign against the Tigrayan people has now escalated into a wider genocide that threatens the very existence of the Amhara community. This ruthless pursuit of power is driven by a desire to silence any voices that challenge the regime’s authority, erasing those who dare to stand against its tyranny.
+
+The evidence is harrowing: mass arrests, extrajudicial killings, and a pervasive culture of fear that has gripped the Amhara region. Local militias, often operating with impunity, engage in violent attacks, leaving dozens dead and countless more displaced. The atrocities committed against the Amhara are not just isolated incidents; they are part of a calculated strategy to eliminate a significant ethnic presence in Ethiopia.
+
+The international response to these ongoing atrocities has been woefully inadequate. Despite mounting evidence of genocide, calls for intervention or even meaningful condemnation from global powers have been muted. This silence allows the Ethiopian government to continue its campaign of violence with little fear of repercussions. It highlights a disturbing trend in international relations, where geopolitical interests often overshadow the urgent need to protect vulnerable populations.
+
+Human rights organizations have documented numerous accounts of violence against the Amhara people, detailing horrific incidents of murder, sexual violence, and displacement. These reports paint a grim picture of a community under siege, struggling to survive amid a backdrop of brutality. Families are torn apart, homes destroyed, and livelihoods shattered, leaving the Amhara people in a state of despair.
+
+The ideological underpinnings of this violence are rooted in a historical context of ethnic tensions and political manipulation. The Ethiopian government, under Abiy Ahmed, has exploited these tensions to consolidate power, using divisive tactics that pit ethnic groups against one another. By targeting the Amhara, the regime seeks to eliminate a potential threat to its authority, undermining the very foundation of Ethiopia's unity.
+
+Moreover, the plight of the Amhara people is often overshadowed by the narratives surrounding other ethnic conflicts in Ethiopia, particularly the Tigray War. While the suffering of the Tigrayan people deserves attention, it is crucial to recognize that the Amhara are facing their own existential crisis. The struggle for justice and recognition must include all communities affected by the regime's brutality.
+
+As the world focuses on crises elsewhere, it is crucial to shine a light on the suffering of the Amhara people. Their struggle is not just a fight for survival; it is a resistance against a regime intent on consolidating power through division and destruction. The international community must prioritize the protection of all ethnic groups in Ethiopia, demanding accountability for the atrocities being committed.
+
+Grassroots movements among the Amhara are emerging, with individuals and organizations working tirelessly to raise awareness about their plight. These activists risk their lives to document the atrocities and advocate for justice, often facing persecution themselves. Their bravery highlights the resilience of the human spirit, even in the face of overwhelming oppression.
+
+In conclusion, the genocide of the Amhara people must not be overlooked. The international community has a moral obligation to respond to this crisis, to amplify the voices of the oppressed, and to demand action from those in power. We must not allow history to repeat itself; we must stand in solidarity with the Amhara and all those who fight against tyranny and injustice. The time to act is now, before it is too late.`,
+
+
+      
+      excerpt: "While the genocide in Gaza rages on, another atrocity has been unfolding for far too long..."
+    },
+
+    {
+
       id: 5,
       title: "Who Repersents Us?",
       author: "Comrade Kuma",
