@@ -5,7 +5,7 @@ const Header = () => {
   const [isModalOpen, setModalOpen] = useState(false);
 
   const organizations = [
-    { name: "1. Communist Party of Ethiopia", url: "https://ethiopian-communist-party.vercel.app/" },
+    { name: "1. Communist Party of Ethiopia", url: "https://ecp-tau.vercel.app/" },
   ];
 
   return (
