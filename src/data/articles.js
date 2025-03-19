@@ -1,4 +1,49 @@
 export const articles = [
+        {
+            
+      id: 7,
+      title: "Ethiopia and Eritrea: A Looming War and the Workers' Struggle for Peace",
+      author: "Comrade Kuma",
+      date: "2025-3-19",
+      category: "Politics",
+      content: `The prospect of war between Ethiopia and Eritrea once again looms large over the Horn of Africa. With the recent flare-up of tensions in Ethiopia’s Tigray region and Eritrea's military mobilization along the shared border, the region teeters on the edge of conflict. The struggle for dominance, exacerbated by political and economic instability, is set to ensnare the working classes of both nations in a violent confrontation that benefits only the ruling elites and imperialist powers.
+
+For decades, Ethiopia and Eritrea have been caught in a cycle of conflict, from the brutal border war of the late 1990s to the ongoing tensions in Tigray. While a peace agreement was signed in 2000, the wounds of that war were never fully healed. Now, as internal strife in Ethiopia threatens to spill over, it risks dragging Eritrea back into a conflict that could devastate the working class on both sides.
+
+The Capitalist Agenda Behind War
+The ruling classes of Ethiopia and Eritrea, along with imperialist powers, are the true beneficiaries of war. Conflict diverts attention away from the contradictions within capitalist societies and allows the elites to consolidate their wealth and power. Workers, on the other hand, bear the brunt of war—losing lives, homes, and livelihoods. As always, it is the working masses who suffer while those in power continue to enrich themselves through the exploitation of both people and resources.
+
+The Ethiopian government, under Abiy Ahmed, has already embraced a neoliberal model that favors Western economic policies. The same imperialist forces that are pushing for privatization, deregulation, and market-driven development in Ethiopia are the ones that stand to profit from war. They sell arms, fund military operations, and use conflicts as a smokescreen for their economic exploitation. Similarly, Eritrea's regime, which has long relied on militarization to maintain control, also stands to deepen its authoritarian hold on power through the justification of war.
+
+War is not inevitable—it is a choice made by those who benefit from conflict and division. Workers must recognize that the elites on both sides of the border are not their friends. The violence and destruction of war serve the interests of the ruling class, not the masses. This is a moment when the working class must rise up to oppose the forces of war and fight for peace.
+
+The Workers' Response: Unity, Solidarity, and Action
+As the drums of war beat louder, it is imperative for the workers of Ethiopia, Eritrea, and the broader Horn of Africa to stand united in their opposition to conflict. Our strength lies in our collective power. By organizing, striking, and mobilizing, we can send a clear message to the governments and the imperialist forces that we will not be pawns in their games of war.
+
+1. Mobilize Mass Action
+Workers must take to the streets, organizing strikes, protests, and demonstrations against the prospect of war. By showing our unity, we demonstrate our refusal to be dragged into the senseless violence that serves only the interests of the elites. Our collective voice must drown out the warmongers who seek to profit from our suffering.
+
+2. Forge International Solidarity
+We are not alone in this struggle. The working classes of the world must unite to build an international network of solidarity. Workers in Europe, Asia, and the Americas must pressure their governments to oppose any intervention or support for war in the Horn of Africa. International pressure can be decisive in averting conflict and forcing the ruling elites to seek peaceful solutions.
+
+3. Engage in Political Education
+The struggle for peace is a struggle for understanding. We must educate ourselves and our communities about the true causes of war, the economic and political interests behind it, and the role of imperialism in fueling conflict. By understanding the underlying forces at play, we can challenge the false narratives pushed by the ruling classes and the media, who portray war as an inevitable or necessary evil.
+
+4. Advocate for Workers' Control
+To reduce the likelihood of conflict and exploitation, workers must demand greater control over their labor and resources. We must organize to ensure that the economic priorities of society serve the needs of the many, not the few. This means pushing for policies that prioritize workers' rights, fair wages, and the protection of our resources from imperialist exploitation.
+
+The War That Should Not Be: Workers Against Capitalist Imperialism
+As proletarians, we stand firmly opposed to the idea of war between Ethiopia and Eritrea. We reject the narrative that war is an inevitable part of our struggle for independence or sovereignty. War is not a tool of liberation; it is a tool of oppression used by the capitalist elites to maintain their hold on power.
+
+In this critical moment, we must remember that the interests of the ruling classes do not align with our own. They seek to maintain control, divide us, and profit from our misery. But we have the power to resist. If we stand together, if we organize, and if we unite across borders, we can stop this war before it starts.
+
+Now is the time for workers across Ethiopia, Eritrea, and the world to come together in solidarity and reject the path to war. We must fight for peace, not for the profit of the elites. Together, we can build a future where justice, peace, and socialism prevail.
+
+`,
+  
+      excerpt: "The bourgeoisie is knocking on Ethiopias doors, but the Workers are getting ready to answer it!"
+    },
+    
     {
 
       id: 6,
@@ -137,7 +182,7 @@ Let us not be complicit in this failure. We must advocate for justice, support i
       },
 {
             
-      id: 4,
+      id: 1,
       title: "Establishing the Foundation for Our Freedoms",
       author: "Comrade Kuma",
       date: "2024-10-26",
@@ -155,50 +200,6 @@ Let us not be complicit in this failure. We must advocate for justice, support i
       In this crucial moment, we need solidarity. Workers from all sectors must come together, recognizing that our struggles are interconnected. When we stand united, we can challenge the capitalist structures that seek to exploit us. It is not just about defending our current rights; it is about envisioning a future where workers are valued, where labor is dignified, and where economic growth benefits all, not just the privileged few.
   
       By fostering a strong, organized movement, we can take decisive action against the encroaching forces of capitalism. We will show that the strength of the Workers is greater than the sum of its parts, that our collective will can bring about the necessary change. The time to act is now—together, we can shape a better future for Ethiopia, one that honors the contributions of all its citizens and safeguards the rights of every worker. Let us rise and reclaim our power!`,
-  
-      excerpt: "The bourgeoisie is knocking on Ethiopias doors, but the Workers are getting ready to answer it!"
-    },
-    {
-            
-      id: 5,
-      title: "Ethiopia and Eritrea: A Looming War and the Workers' Struggle for Peace",
-      author: "Comrade Kuma",
-      date: "2025-3-19",
-      category: "Politics",
-      content: `The prospect of war between Ethiopia and Eritrea once again looms large over the Horn of Africa. With the recent flare-up of tensions in Ethiopia’s Tigray region and Eritrea's military mobilization along the shared border, the region teeters on the edge of conflict. The struggle for dominance, exacerbated by political and economic instability, is set to ensnare the working classes of both nations in a violent confrontation that benefits only the ruling elites and imperialist powers.
-
-For decades, Ethiopia and Eritrea have been caught in a cycle of conflict, from the brutal border war of the late 1990s to the ongoing tensions in Tigray. While a peace agreement was signed in 2000, the wounds of that war were never fully healed. Now, as internal strife in Ethiopia threatens to spill over, it risks dragging Eritrea back into a conflict that could devastate the working class on both sides.
-
-The Capitalist Agenda Behind War
-The ruling classes of Ethiopia and Eritrea, along with imperialist powers, are the true beneficiaries of war. Conflict diverts attention away from the contradictions within capitalist societies and allows the elites to consolidate their wealth and power. Workers, on the other hand, bear the brunt of war—losing lives, homes, and livelihoods. As always, it is the working masses who suffer while those in power continue to enrich themselves through the exploitation of both people and resources.
-
-The Ethiopian government, under Abiy Ahmed, has already embraced a neoliberal model that favors Western economic policies. The same imperialist forces that are pushing for privatization, deregulation, and market-driven development in Ethiopia are the ones that stand to profit from war. They sell arms, fund military operations, and use conflicts as a smokescreen for their economic exploitation. Similarly, Eritrea's regime, which has long relied on militarization to maintain control, also stands to deepen its authoritarian hold on power through the justification of war.
-
-War is not inevitable—it is a choice made by those who benefit from conflict and division. Workers must recognize that the elites on both sides of the border are not their friends. The violence and destruction of war serve the interests of the ruling class, not the masses. This is a moment when the working class must rise up to oppose the forces of war and fight for peace.
-
-The Workers' Response: Unity, Solidarity, and Action
-As the drums of war beat louder, it is imperative for the workers of Ethiopia, Eritrea, and the broader Horn of Africa to stand united in their opposition to conflict. Our strength lies in our collective power. By organizing, striking, and mobilizing, we can send a clear message to the governments and the imperialist forces that we will not be pawns in their games of war.
-
-1. Mobilize Mass Action
-Workers must take to the streets, organizing strikes, protests, and demonstrations against the prospect of war. By showing our unity, we demonstrate our refusal to be dragged into the senseless violence that serves only the interests of the elites. Our collective voice must drown out the warmongers who seek to profit from our suffering.
-
-2. Forge International Solidarity
-We are not alone in this struggle. The working classes of the world must unite to build an international network of solidarity. Workers in Europe, Asia, and the Americas must pressure their governments to oppose any intervention or support for war in the Horn of Africa. International pressure can be decisive in averting conflict and forcing the ruling elites to seek peaceful solutions.
-
-3. Engage in Political Education
-The struggle for peace is a struggle for understanding. We must educate ourselves and our communities about the true causes of war, the economic and political interests behind it, and the role of imperialism in fueling conflict. By understanding the underlying forces at play, we can challenge the false narratives pushed by the ruling classes and the media, who portray war as an inevitable or necessary evil.
-
-4. Advocate for Workers' Control
-To reduce the likelihood of conflict and exploitation, workers must demand greater control over their labor and resources. We must organize to ensure that the economic priorities of society serve the needs of the many, not the few. This means pushing for policies that prioritize workers' rights, fair wages, and the protection of our resources from imperialist exploitation.
-
-The War That Should Not Be: Workers Against Capitalist Imperialism
-As proletarians, we stand firmly opposed to the idea of war between Ethiopia and Eritrea. We reject the narrative that war is an inevitable part of our struggle for independence or sovereignty. War is not a tool of liberation; it is a tool of oppression used by the capitalist elites to maintain their hold on power.
-
-In this critical moment, we must remember that the interests of the ruling classes do not align with our own. They seek to maintain control, divide us, and profit from our misery. But we have the power to resist. If we stand together, if we organize, and if we unite across borders, we can stop this war before it starts.
-
-Now is the time for workers across Ethiopia, Eritrea, and the world to come together in solidarity and reject the path to war. We must fight for peace, not for the profit of the elites. Together, we can build a future where justice, peace, and socialism prevail.
-
-`,
   
       excerpt: "The bourgeoisie is knocking on Ethiopias doors, but the Workers are getting ready to answer it!"
     },
